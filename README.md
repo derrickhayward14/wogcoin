@@ -1,0 +1,2 @@
+# wogcoin
+wogcoin website
